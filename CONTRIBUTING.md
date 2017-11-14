@@ -9,4 +9,4 @@
 - Just like issues, label your pull requests
 - Pull request will be reviewed before being merged, so please be patient.
 
-As we interact we just follow and abide by the [ code of conduct](https://github.com/uniphyd/welcome/blob/master/CODE_OF_CONDUCT.md)
+As we interact we just follow and abide by the [ code of conduct](https://github.com/uniphyd/welcome/blob/master/CODE_OF_CONDUCT.md).
