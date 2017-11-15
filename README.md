@@ -9,7 +9,7 @@ We're based in Vadodara,India but wouldn't mind spreading our wings all over the
 
 **Ok!**, so what are we about?
 
-Quick answer : [Open Source](https://memegenerator.net/img/instances/30512349/open-source.jpg)
+Quick answer : ![Open Source](https://memegenerator.net/img/instances/30512349/open-source.jpg)
 
 
 ~~Boring answer~~ :smirk: Long answer :
@@ -29,7 +29,7 @@ Quick answer : [Open Source](https://memegenerator.net/img/instances/30512349/op
 > Software develoment isn't just fibonacci series and fancy star patterns. It's a beautiful process and we feel everyone should get a chance to experience it in its true form!
 
 
-[Git](https://cdn-images-1.medium.com/max/1600/0*88xeS_zvU7kjNPpf.)
+![Git](https://cdn-images-1.medium.com/max/1600/0*88xeS_zvU7kjNPpf.)
 
 Be sure co check our [website](https://uniphyd.github.io/) for updates and new projects were working on!
 
