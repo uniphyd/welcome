@@ -1,5 +1,5 @@
-# Welcome
-**Welcome to Uniphyd**
+
+# Welcome to Uniphyd
 
 Uniphyd (_pronounced Unified_) is a student run open source community 
 
@@ -9,7 +9,8 @@ We're based in Vadodara,India but wouldn't mind spreading our wings all over the
 
 **Ok!**, so what are we about?
 
-Quick answer : ![Open Source](https://memegenerator.net/img/instances/30512349/open-source.jpg)
+Quick answer : 
+![Open Source](https://memegenerator.net/img/instances/30512349/open-source.jpg)
 
 
 ~~Boring answer~~ :smirk: Long answer :
@@ -31,6 +32,6 @@ Quick answer : ![Open Source](https://memegenerator.net/img/instances/30512349/o
 
 ![Git](https://cdn-images-1.medium.com/max/1600/0*88xeS_zvU7kjNPpf.)
 
-Be sure co check our [website](https://uniphyd.github.io/) for updates and new projects were working on!
+Be sure to check our [website](https://uniphyd.github.io/) for updates and new projects were working on!
 
 # One Love :sparkling_heart:
