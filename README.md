@@ -1,5 +1,4 @@
 ![Logo](https://github.com/uniphyd/welcome/blob/malgamves-readme-logo/Logo/Logo%20(1).png)
-# Welcome to Uniphyd
 
 Uniphyd (_pronounced Unified_) is a student run open source community 
 
