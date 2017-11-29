@@ -1,4 +1,4 @@
-![pic](Logo(1).jpg)
+![pic](/Logo/Logo(1).jpg)
 # Welcome to Uniphyd
 
 Uniphyd (_pronounced Unified_) is a student run open source community 
