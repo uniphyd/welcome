@@ -2,7 +2,7 @@
 
 ## Raising an issue
 - Put up labels so that an issue can be easily found
-- Clear explain the issue (add screenshots if necessary)
+- Clearly explain the issue (add screenshots if necessary)
 
 
 ## Pull requests
